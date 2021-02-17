@@ -1,1 +1,1 @@
-noporn: pip install -U APScheduler emoji OpenCC Pillow pyAesCrypt pyrogram[fast] nsfw numpy scikit-image
+web: python3 -m venv --system-site-packages ~/scp-079/noporn/venv
