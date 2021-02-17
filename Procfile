@@ -1,1 +1,1 @@
-web: python -m scp-079-noporn
+web: python -m pyrogram
