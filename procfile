@@ -1,1 +1,1 @@
-pip install -U APScheduler emoji OpenCC Pillow pyAesCrypt pyrogram[fast] nsfw numpy scikit-image
+noporn: pip install -U APScheduler emoji OpenCC Pillow pyAesCrypt pyrogram[fast] nsfw numpy scikit-image
