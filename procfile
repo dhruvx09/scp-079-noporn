@@ -1,1 +1,1 @@
-pip install -r requirements.txt
+pip install -U APScheduler emoji OpenCC Pillow pyAesCrypt pyrogram[fast] nsfw numpy scikit-image
