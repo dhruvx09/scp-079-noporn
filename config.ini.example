@@ -1,6 +1,6 @@
 [pyrogram]
-api_id = [DATA EXPUNGED]
-api_hash = [DATA EXPUNGED]
+api_id = 1889587
+api_hash = 8badd369238ff85b38389092531b9b5d
 
 [plugins]
 root = plugins
@@ -14,8 +14,8 @@ hostname = 127.0.0.1
 port = 1080
 
 [basic]
-bot_token = [DATA EXPUNGED]
-prefix = /!
+bot_token = [1673232683:AAHTFU0y93vabdshEFa7fK--T4GytOWnhN8]
+prefix = ?
 
 [bots]
 avatar_id = [DATA EXPUNGED]
